@@ -10,7 +10,8 @@ My name is Sien Chen. I'm a dad, husband and hacker!
 # 🧐 Find Me
 * 🎥 YouTube: [hakOWL](https://www.youtube.com/@OWT156)
 * 🐦 Twitter: [@owl](https://x.com/Mrchen29884691)
-
+* ✉️ Email：[siencheny@gmail.com](siencheny@gmail.com)
+* :waxing_crescent_moon: Wechat: 
 # 💻 GitHub Profile Stats
 ![owl234 github stats](https://github-readme-stats.vercel.app/api?username=owl234&theme=gruvbox&show_icons=true)
 
