@@ -4,7 +4,8 @@
 
 My name is Sien Chen. Lame hacker! 
 
-- 🌱 learning **Web Penetration Testing, Golang, Computer Networks**.
+- 🔭 I like to explore new technologies and develop software solutions and security research.
+- 🌱 I’m currently learning **Web Penetration Testing, Golang, Computer Networks**.
 
 # 🧐 Find Me
 * 🎥 YouTube: [hakOWL](https://www.youtube.com/@OWT156)
