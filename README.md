@@ -2,8 +2,7 @@
 
 # 👨‍💻 About me
 
-I am a Cybersecurity Explorer, dedicated to the principle of lifelong learning. 
-Just as life is a continuous upstream journey, to stand still is to fall back. Through its inevitable ebbs and flows, I hope to offer a solace and light to anyone navigating a low point！
+I am a Cybersecurity Explorer.
 
 - 🔭 I like to explore new technologies and develop software solutions and security research.
 - 🌱 I’m currently learning **Web Penetration Testing, Golang, Computer Networks**.
