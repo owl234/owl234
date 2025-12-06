@@ -13,7 +13,7 @@ I am a Cybersecurity Explorer.
 * ✉️ Email：[siencheny@gmail.com](siencheny@gmail.com)
 * :waxing_crescent_moon: Wechat: chensien3
 # 💻 GitHub Profile Stats
-![owl234 github stats](https://github-readme-stats.vercel.app/api?username=owl234&theme=gruvbox&show_icons=true)
+<img src="https://github-readme-stats.zohan.tech/api?username=owl234&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" width="400">
 
 # "Let's code the world together!"
 ![Hacker](https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp)
