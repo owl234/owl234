@@ -8,8 +8,6 @@ I am a Cybersecurity Explorer.
 - 🌱 I’m currently learning **Web Penetration Testing, Golang, Computer Networks**.
 
 # 🧐 Find Me
-* 🎥 YouTube: [hakOWL](https://www.youtube.com/@OWT156)
-* 🐦 Twitter: [@owl](https://x.com/Mrchen29884691)
 * ✉️ Email：[siencheny@gmail.com](siencheny@gmail.com)
 * :waxing_crescent_moon: Wechat: chensien3
 # 💻 GitHub Profile Stats
