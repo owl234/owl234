@@ -42,19 +42,6 @@ I break things to understand them. I build things to secure them.
 
 <br>
 
-### / Open Source
-
-<div align="left">
-  <a href="https://github.com/owl234/Awesome-SRC-experience">
-    <img src="https://github-readme-stats.zohan.tech/api/pin/?username=owl234&repo=Awesome-SRC-experience&theme=transparent&title_color=000000&text_color=333333&icon_color=000000&hide_border=true" width="400" alt="Awesome-SRC-experience">
-  </a>
-  <a href="https://github.com/owl234/arl-pro">
-    <img src="https://github-readme-stats.zohan.tech/api/pin/?username=owl234&repo=arl-pro&theme=transparent&title_color=000000&text_color=333333&icon_color=000000&hide_border=true" width="400" alt="arl-pro">
-  </a>
-</div>
-
-<br>
-
 ### / Contact
 
 *   **Email**
