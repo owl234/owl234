@@ -1,0 +1,49 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Environment variables / Secrets
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+secrets.json
+
+# Build directories and logs
+logs/
+*.log
+
+# Node
+node_modules/
+dist/
+build/
+
+# Go
+bin/
+obj/
+*.exe
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# Antigravity / Agent Scratch files
+scratch/
+.scratch/
+AGENTS.md
