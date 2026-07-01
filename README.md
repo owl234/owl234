@@ -18,7 +18,7 @@
 
 I break things to understand them. I build things to secure them.
 
-*   **Focus** / Web Penetration Testing & Network Security
+*   **Focus** / Web Penetration Testing & CyberSecurity
 *   **Stack** / High-performance services with Golang
 *   **Vision** / The intersection of software architecture and offensive security
 
