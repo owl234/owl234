@@ -45,7 +45,7 @@ I break things to understand them. I build things to secure them.
 ### / Contact
 
 *   **Email**
-    [321002609@qq.com](mailto:321002609@qq.com);
+    [321002609@qq.com](mailto:321002609@qq.com)
 *   **GitHub**
     [@owl234](https://github.com/owl234)
 
