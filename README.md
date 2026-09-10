@@ -36,11 +36,6 @@ I break things to understand them. I build things to secure them.
 
 <br>
 
-### / Bug Bounty (SRC)
-
-**Submitted:** ` 8 ` &nbsp; | &nbsp; **Accepted:** ` 2 ` &nbsp; | &nbsp; **Pending:** ` 6 `
-
-<br>
 
 ### / Contact
 
