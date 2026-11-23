@@ -16,12 +16,14 @@
 
 I break things to understand them. I build things to secure them.
 
-Security engineer focused on web penetration testing, attack surface management, and security automation. Maintainer of **ARL-Next**, an open-source attack-surface reconnaissance platform with native MCP (Model Context Protocol) support that lets AI agents query multi-dimensional asset profiles. Currently exploring AI security: how agents should — and should not — be given security tooling.
+Security engineer focused on web security, attack surface management, and AI security. Maintainer of **ARL-Next**, an open-source attack-surface reconnaissance platform with native MCP (Model Context Protocol) support that lets AI agents query multi-dimensional asset profiles. Currently exploring AI security: how agents should — and should not — be given security tooling.
 
-*   **Focus** / Web Penetration Testing, Attack Surface Management, AI Security
+*   **Focus** / Web Security, Attack Surface Management, AI Security
 *   **Stack** / Python services and tooling (Flask, Celery, MongoDB), Vue front-ends, Docker
 *   **Also** / Go — learning in the open; notes and small tools in [go-learn](https://github.com/owl234/go-learn)
 *   **Writing** / WeChat official account “owl安全” — security notes and ARL-Next release updates
+*   **Certified** / CISP (Certified Information Security Professional)
+*   **Bug Bounty** / 3 reports approved by ByteDance SRC (1 medium, 2 low) — details withheld per SRC confidentiality
 
 <br>
 
@@ -38,6 +40,12 @@ Modern attack-surface reconnaissance & asset monitoring platform — rebuilt fro
 A modern SRC (Security Response Center) bug-bounty knowledge base — real-world vulnerability hunting experience and automation tooling, built for the community.
 
 <a href="https://github.com/owl234/Awesome-SRC-experience/stargazers"><img src="https://img.shields.io/github/stars/owl234/Awesome-SRC-experience?style=flat-square&color=gold" alt="Stars"></a>
+
+#### [Baidu Netdisk Sync](https://github.com/owl234/obsidian-baidu-netdisk-sync)
+
+Obsidian community plugin for two-way sync via Baidu Netdisk — end-to-end encrypted, with conflict resolution and resumable transfer. Listed on the official Obsidian community plugin marketplace, 2,000+ downloads.
+
+<a href="https://github.com/owl234/obsidian-baidu-netdisk-sync/stargazers"><img src="https://img.shields.io/github/stars/owl234/obsidian-baidu-netdisk-sync?style=flat-square&color=gold" alt="Stars"></a> <a href="https://obsidian.md/plugins?id=baidu-netdisk-sync"><img src="https://img.shields.io/badge/Obsidian%20Plugin-7C3AED?style=flat-square" alt="Obsidian Plugin"></a>
 
 #### [SecAgentHarness2](https://github.com/owl234/SecAgentHarness2)
 
@@ -69,5 +77,9 @@ Go learning notes for security engineers: from basics to a concurrent TCP port s
 
 *   **Email**
     [321002609@qq.com](mailto:321002609@qq.com)
+*   **X**
+    [@Mrchen29884691](https://x.com/Mrchen29884691)
 *   **GitHub**
     [@owl234](https://github.com/owl234)
+*   **Support**
+    [Ko-fi](https://ko-fi.com/owl234) — support ARL-Next maintenance
