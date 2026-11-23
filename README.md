@@ -82,4 +82,4 @@ Go learning notes for security engineers: from basics to a concurrent TCP port s
 *   **GitHub**
     [@owl234](https://github.com/owl234)
 *   **Support**
-    [Ko-fi](https://ko-fi.com/owl234) — support ARL-Next maintenance
+    [Ko-fi](https://ko-fi.com/owl234) · [爱发电](https://ifdian.net/a/owl234) — support ARL-Next maintenance
