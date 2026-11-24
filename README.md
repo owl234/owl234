@@ -20,7 +20,6 @@ Security engineer focused on web security, attack surface management, and AI sec
 
 *   **Focus** / Web Security, Attack Surface Management, AI Security
 *   **Stack** / Python services and tooling (Flask, Celery, MongoDB), Vue front-ends, Docker
-*   **Also** / Go — learning in the open; notes and small tools in [go-learn](https://github.com/owl234/go-learn)
 *   **Writing** / WeChat official account “owl安全” — security notes and ARL-Next release updates
 *   **Certified** / CISP (Certified Information Security Professional)
 *   **Bug Bounty** / 3 reports approved by ByteDance SRC (1 medium, 2 low) — details withheld per SRC confidentiality
@@ -51,10 +50,6 @@ Obsidian community plugin for two-way sync via Baidu Netdisk — end-to-end encr
 
 Applying recursive agent harnessing to cybersecurity: multi-domain benchmark evaluation and 8-component optimization for security agents.
 
-#### [go-learn](https://github.com/owl234/go-learn)
-
-Go learning notes for security engineers: from basics to a concurrent TCP port scanner.
-
 <br>
 
 ### / Tech Stack
@@ -65,7 +60,6 @@ Go learning notes for security engineers: from basics to a concurrent TCP port s
   <img src="https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue">
   <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/-Go-black?style=flat-square&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/-Nuclei-black?style=flat-square" alt="Nuclei">
   <img src="https://img.shields.io/badge/-Burp%20Suite-black?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite">
   <img src="https://img.shields.io/badge/-Kali%20Linux-black?style=flat-square&logo=kali-linux&logoColor=white" alt="Kali Linux">
